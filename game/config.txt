@@ -1,0 +1,6 @@
+Game_name:侧面 Other Side Project - Other Side Project=true - Other Side Project=true - Other Side Project=true;
+Game_key:d14ed3223424eb8;
+Title_img:5f6f7f.png;
+Title_bgm:s_Title.mp3;
+Textbox_theme:imss;
+Game_Logo:;

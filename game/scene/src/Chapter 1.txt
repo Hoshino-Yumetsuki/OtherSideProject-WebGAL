@@ -1,0 +1,8 @@
+changeBg:5f6f7f.png;
+changeFigure:stand.png -left -next;
+你:你好，有什么需要的吗 -fontSize=default;
+changeFigure: -left;
+changeFigure:stand2.png -right;
+我:好的 -fontSize=default;
+changeFigure: -right;
+end;

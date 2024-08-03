@@ -1,0 +1,4 @@
+changeBg:start/logo.png;
+changeBg:start/logowarn.png;
+changeBg:start/oslogo-no-alpha.png;
+changeScene:src/Chapter 1.txt
